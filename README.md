@@ -107,6 +107,9 @@ booom boom booom 5 big booms
 +66+56+5
 12358
 
+65226
++
+
 4456
 245
 5353
