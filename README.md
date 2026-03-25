@@ -81,7 +81,7 @@ Activity logging and audit trails
  Email notifications
  SEO optimized
  Multi-language support (Coming Soon)
- Dark mode (Coming Soon)
+ Dark mode (Coming Soon) wlerfwgererlkds
 
 65165
 65165
