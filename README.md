@@ -63,6 +63,7 @@ Customer tier management
 Communication tools
 Purchase history analysis
  Role-Based Access Control (RBAC)
+ 
 
 Multiple admin roles (Super Admin, Manager, Staff)
 Granular permissions system
@@ -97,6 +98,7 @@ Activity logging and audit trails
 65656
 6465
 65516
+65165
 654566
 65545
 54
